@@ -215,9 +215,10 @@
 
 	function askPassword() {
 		Swal.fire({
+			
 			title: 'Bhawana ♡ Surendra ',
 			//input: 'password',
-			imageUrl: 'images/d4.png',
+			imageUrl: 'images/d5.png',
 			height: '100%',
 			confirmButtonColor: '#FF0266',
 			background: '#F8BBD0',
